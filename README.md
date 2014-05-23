@@ -1,4 +1,4 @@
-## This is a markdown file
+# Instructions for running the Cleaning & Getting Data Project
 
 To run the run_analysis.R file...
 
